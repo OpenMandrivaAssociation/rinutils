@@ -2,7 +2,7 @@
 %global basen rinutils
 
 Name: %{basen}
-Version: 0.6.0
+Version: 0.10.1
 %global basenver %{basen}-%{version}
 Release: 1
 License: MIT
