@@ -4,7 +4,7 @@
 Name: %{basen}
 Version: 0.10.1
 %global basenver %{basen}-%{version}
-Release: 1
+Release: 2
 License: MIT
 Source:  https://github.com/shlomif/rinutils/releases/download/%{version}/%{basenver}.tar.xz
 URL: https://github.com/shlomif/rinutils/
