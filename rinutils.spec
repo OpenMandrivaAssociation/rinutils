@@ -2,9 +2,9 @@
 %global basen rinutils
 
 Name: %{basen}
-Version: 0.10.1
+Version: 0.10.2
 %global basenver %{basen}-%{version}
-Release: 2
+Release: 1
 License: MIT
 Source:  https://github.com/shlomif/rinutils/releases/download/%{version}/%{basenver}.tar.xz
 URL: https://github.com/shlomif/rinutils/
